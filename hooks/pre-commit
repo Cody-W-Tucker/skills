@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+SKILLS_ROOT="$(pwd)" bash tests/check.sh
