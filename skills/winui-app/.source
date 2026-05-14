@@ -1,0 +1,6 @@
+url=https://github.com/openai/skills/tree/main/skills/.curated
+repo=openai/skills
+kind=tree
+path=skills/.curated/winui-app
+ref=c25113bf4c64c8dba6bfe61acf06051d79aa43f6
+originalRef=main

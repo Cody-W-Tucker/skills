@@ -1,0 +1,6 @@
+url=https://github.com/supabase/agent-skills/tree/main/skills
+repo=supabase/agent-skills
+kind=tree
+path=skills/supabase
+ref=daaed4afe2c78cbdbf92a98f43540cb0293b512d
+originalRef=main

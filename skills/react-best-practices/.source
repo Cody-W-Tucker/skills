@@ -1,0 +1,6 @@
+url=https://github.com/vercel-labs/agent-skills/tree/main/skills
+repo=vercel-labs/agent-skills
+kind=tree
+path=skills/react-best-practices
+ref=b9c8ee0643d87d3c5a953d1e22382ff2ead39229
+originalRef=main

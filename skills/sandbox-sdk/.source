@@ -1,0 +1,6 @@
+url=https://github.com/cloudflare/skills/tree/main/skills
+repo=cloudflare/skills
+kind=tree
+path=skills/sandbox-sdk
+ref=60147cbb773649eadca89cee92b4e0caf02234b4
+originalRef=main

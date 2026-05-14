@@ -1,0 +1,6 @@
+url=https://github.com/anthropics/skills/tree/main/skills
+repo=anthropics/skills
+kind=tree
+path=skills/doc-coauthoring
+ref=f458cee31a7577a47ba0c9a101976fa599385174
+originalRef=main

@@ -1,0 +1,6 @@
+url=https://github.com/agamm/claude-code-owasp/tree/main/.claude/skills/owasp-security
+repo=agamm/claude-code-owasp
+kind=tree
+path=.claude/skills/owasp-security
+ref=d0dc44da5d884409ee478258b7c666c84d9dab9e
+originalRef=main

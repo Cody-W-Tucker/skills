@@ -1,0 +1,6 @@
+url=https://github.com/sanity-io/agent-toolkit/tree/main/skills
+repo=sanity-io/agent-toolkit
+kind=tree
+path=skills/sanity-best-practices
+ref=bc09fa9854507c538a856648aafbd4e1a775a95c
+originalRef=main
