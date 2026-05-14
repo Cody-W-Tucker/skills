@@ -1,6 +1,0 @@
-url=https://github.com/addyosmani/agent-skills/tree/main/skills
-repo=addyosmani/agent-skills
-kind=tree
-path=skills/git-workflow-and-versioning
-ref=3ff4b518b3cd3077ca27cf883aa21d21faf53802
-originalRef=main
