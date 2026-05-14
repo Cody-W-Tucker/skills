@@ -2,11 +2,9 @@ Stop giving away your secrets.
 
 # Manifesto
 
-People want to show they're good with AI, so they publish the part that actually makes them good: their heuristics, their review standards, their sequencing, their taste.
+People want to show they're AI experts, so they publish the part that actually makes them good: their heuristics, their review standards, their sequencing, their taste.
 
 > There is a difference between a skill that teaches an AI how to use a product and a skill that teaches an AI how to think like you.
-
----
 
 Company skills that teach product usage are useful public infrastructure. They help people get value from a tool faster. They make onboarding easier. They reduce support load. Those are worth spreading.
 
@@ -31,8 +29,6 @@ Second, build a system for collecting and curating external skills, then persona
 > Translate cross-domain skills into your theory of mind. Enrich your thinking with other domains of thought.
 
 This repo is a collector of skills that show their work. It is a library of raw material and a staging ground for personalization.
-
----
 
 The workflow is simple: collect widely, classify carefully, keep what compounds, personalize what matters, and drop the rest.
 
